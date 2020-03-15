@@ -1,0 +1,19 @@
+{
+  "name": "photo-fortunetelling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedya-Mercuriev/photo-fortunetelling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fedya-Mercuriev/photo-fortunetelling/issues"
+  },
+  "homepage": "https://github.com/Fedya-Mercuriev/photo-fortunetelling#readme"
+}
